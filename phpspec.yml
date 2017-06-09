@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: prytemas
+        psr4_prefix: prytemas
+        src_path: app

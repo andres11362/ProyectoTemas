@@ -1,0 +1,52 @@
+.navbar-default {
+    background: #000 !important;
+}
+
+a.navbar-brand {
+    color: #fff !important;
+}
+
+a.dropdown-toggle:hover, a.dropdown-toggle:focus {
+    background: #fff !important;
+    color: #000;
+}
+
+a.dropdown-toggle {
+    color: #fff;
+}
+
+div#wrapper {
+    background: #000 !important;
+}
+
+.sidebar ul li a.active {
+    background-color: #333 !important;
+    color: #fff !important;
+}
+
+.sidebar ul li a.active:hover {
+    background-color: #fff !important;
+    color: #000 !important;
+}
+.nav>li>a {
+    color: #fff;
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+    text-decoration: none;
+    background-color: #fff;
+    color: #000;
+}
+
+body {
+    background-color: #000;
+}
+
+label.preguntas {
+    min-width: 100%;
+}
+
+.radio.preg input[type="radio"] {
+    margin-left: 0px;
+    margin-top: 10px;
+}

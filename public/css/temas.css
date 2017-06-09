@@ -1,0 +1,74 @@
+.imagen {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.center {
+    display: block;
+    margin: 0 auto;
+}
+
+.img-center {
+    margin: 0 auto;
+    width: 50%;
+}
+
+#correcto {
+    width: 100%;
+    color: green;
+    text-align: center;
+    justify-content: center;
+    font-size: 200px;
+}
+
+#incorrecto {
+    width: 100%;
+    color: red;
+    text-align: center;
+    justify-content: center;
+    font-size: 200px;
+}
+
+#respuesta {
+    text-align: center;
+}
+
+.icons {
+    width: 100%;
+    text-align: center;
+    font-size: 150px;
+}
+
+.icons a {
+    color: #000000 !important;
+    text-decoration: none;
+}
+
+.icons:hover {
+    background: #000;
+    transition: 0.5s ease;
+}
+
+.icons:hover {
+    background: #000;
+    transition: 0.5s ease;
+}
+
+.icons:hover h2 {
+    color: #fff !important;
+    transition: 0.5s ease;
+}
+
+.icons:hover i {
+    color: #ffffff;
+    transition: 0.5s ease;
+}
+
+.icons h2 {
+    padding-bottom: 15px;
+}
+
+div#centro {
+    width: 25%;
+    margin: 0 auto;
+}
